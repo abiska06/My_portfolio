@@ -24,7 +24,7 @@ const Projects = () => {
       description:
         "A Python and OpenCV app that recognizes spoken words from lip movements in real-time, exploring AI for accessibility.",
       image: "/Lip-Sync.jpeg",
-      codeLink: "https://github.com/yourusername/Lip-Sync"
+      codeLink: "https://github.com/abiska06/Lip-Reader"
     }
   ]
 
@@ -77,3 +77,4 @@ const Projects = () => {
 }
 
 export default Projects
+
